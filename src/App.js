@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
     <div className="Main">
-     <h1>Hello Shad Khan, <span style={cssStyle}> { greeting } </span></h1>
+     <h1>Hello dear, <span style={cssStyle}> { greeting } </span></h1>
     </div>
     </div>
   );
