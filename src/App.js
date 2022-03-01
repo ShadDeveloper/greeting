@@ -11,9 +11,13 @@ function App() {
     greeting = 'Good Morning';
     cssStyle.color = 'Green';
   }
-  else if(curDate >=12 && curDate <19){
+  else if(curDate >=12 && curDate <17){
     greeting = 'Good Afternoon';
     cssStyle.color = 'Orange';
+  }
+  else if(curDate >=17 && curDate <20){
+    greeting = 'Good Evening';
+    cssStyle.color = '#0f1650';
   }
   else{
     greeting = 'Good Night';
