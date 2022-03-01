@@ -11,6 +11,19 @@
   background: rgb(104, 127, 143);
 }
 
+.App a{
+  position: absolute;
+  bottom: 10px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: rgb(233, 202, 157);
+  right: 15px;
+}
+
+.App a:hover{
+  border-bottom: 2px solid rgb(154, 57, 167);
+}
+
 .Main{
   background: rebeccapurple;
   width: 65%;
