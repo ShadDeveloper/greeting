@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cba07f54.css",
+    "main.js": "/static/js/main.5471c199.js",
+    "static/js/787.9b06cee2.chunk.js": "/static/js/787.9b06cee2.chunk.js",
+    "static/media/pexels-roberto-nickson-2559941.jpg": "/static/media/pexels-roberto-nickson-2559941.4adc251eccaccf9a1743.jpg",
+    "index.html": "/index.html",
+    "main.cba07f54.css.map": "/static/css/main.cba07f54.css.map",
+    "main.5471c199.js.map": "/static/js/main.5471c199.js.map",
+    "787.9b06cee2.chunk.js.map": "/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba07f54.css",
+    "static/js/main.5471c199.js"
+  ]
+}
